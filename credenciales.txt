@@ -1,0 +1,3 @@
+Usuario: admin
+Contraseña: parcial2026*
+Repositorio: https://github.com/TU_USUARIO/parcial2-django
